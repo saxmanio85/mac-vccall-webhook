@@ -1,0 +1,2 @@
+export CALL_START="https://hooks.nabu.casa/MY_REALLY_SECURE_WEBHOOK_FOR_CALL_START"
+export CALL_STOP="https://hooks.nabu.casa/MY_REALLY_SECURE_WEBHOOK_FOR_CALL_END"

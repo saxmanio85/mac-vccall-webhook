@@ -1,0 +1,12 @@
+# Ignore secret webhook URLs
+.webhooks
+
+# Ignore potentially personal PLISTs
+*.plist
+
+# Ignore local script logs
+*.log
+call-status.log
+
+# Ignore macOS system files
+.DS_Store
