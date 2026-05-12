@@ -9,7 +9,7 @@ This has only been tested on macOS Tahoe
 ## Features
 * **Universal Detection:** Detects both Zoom and Microsoft Teams (including the newer "ms-teams" architecture).
 * **Hardware Agnostic:** Works with built-in mics, AirPods, USB webcams, and Thunderbolt docks.
-* **Minimal Footprint:** Polls a tiny system state every 5 seconds. Zero heavy log parsing or CPU spikes.
+* **Minimal Footprint:** Polls a tiny system state every ~5 seconds. Zero heavy log parsing or CPU spikes.
 * **Secure by Design:** Keeps your private webhook URLs isolated in a hidden, untracked file to prevent accidental sharing.
 
 ## Prerequisites
